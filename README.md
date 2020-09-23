@@ -5,11 +5,10 @@
 - 👯 I’m looking to collaborate on ToastUi
 - 🤔 I’m looking for help with system design.
 - 💬 Ask me about Anythiing i that know.
-- 📫 How to reach me: dev.rahul.er@gmail.com
 - 😄 Pronouns: Rahul
 - ⚡ Fun fact: I like to sleep.
 
-[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/rahul-kumar-36b05a189/)
+[![](https://img.shields.io/badge/LinkedIn-Rahul-blue)](https://www.linkedin.com/in/rahul-kumar-36b05a189/)
 [![](https://img.shields.io/badge/Gmail-dev.rahul.er%40gmail.com-red)](mailto:dev.rahul.er@gmail.com)
 
 
@@ -17,3 +16,4 @@
 
 
   
+⭐️ From [@ashrafkm](https://github.com/ashrafkm)
