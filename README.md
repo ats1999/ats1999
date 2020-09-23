@@ -1,7 +1,7 @@
 
 ## नमस्ते 🙏, I'm Rahul kumar <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-- 🔭 I’m currently working on real time chatting application.
+- 🔭 I’m currently working on real time chatting application. <br>
 - 🌱 I’m currently learning Data structure, algorithm and MERN stack development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 👯 I’m looking to collaborate on ToastUi
 - 🤔 I’m looking for help with system design.
