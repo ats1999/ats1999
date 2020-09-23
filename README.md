@@ -30,10 +30,10 @@
 
 ## Front-end
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/> 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/ats1999) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/ats1999) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/hritik5102)](https://github.com/ats1999) 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/ats1999) 
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white"/>
+	<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flate&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=flat&logo=material-ui&logoColor=white"/>
 <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat&logo=jquery&logoColor=white"/>
