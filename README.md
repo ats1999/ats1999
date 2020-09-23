@@ -33,6 +33,7 @@
 # Backend
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/ats1999)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/ats1999)
+
 # Tools
 <p align="center">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px">  
@@ -40,13 +41,16 @@
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-</p>
-
+   
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/ats1999) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/ats1999)
+</p>
+
 ### 🏆 Github Status
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=ats1999&show_icons=true&hide_border=true)
 
+### 👀 Active Repo
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=algorithm)](https://github.com/ats1999/algorithm)
 
 
 ⭐️ From [@Rahul](https://github.com/ats1999) 
