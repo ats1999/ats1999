@@ -1,5 +1,7 @@
    
-<h1 style="display: inline;"> नमस्ते 🙏, I'm Rahul kumar. I love my <img src="images/india.gif" style="width: 50px; height: 50px; display: inline-block; border-radius: 50px;" alt=""> </h1>  
+<h1 style="display: inline;"> नमस्ते 🙏, I'm Rahul kumar. I love my 
+![india](images/india.gif | width=50 height=50)
+</h1>  
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
