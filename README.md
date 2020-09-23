@@ -1,5 +1,6 @@
    
-<h1 style="display: inline;"> नमस्ते 🙏, I'm Rahul kumar. ![india_image](https://github.com/Ats1999/ats1999/blob/master/images/india.gif) </h1>  
+<h1 style="display: inline;"> नमस्ते 🙏, I'm Rahul kumar. </h1> 
+![india_image](https://github.com/Ats1999/ats1999/blob/master/images/india.gif) 
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
