@@ -27,8 +27,9 @@
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/hritik5102)](https://github.com/ats1999)
 <img src="https://img.shields.io/badge/-JSP-de6c1e?style=flat" > 
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> 
+
 ## Front-end
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/ats1999) 
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/> 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/ats1999) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/ats1999) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/hritik5102)](https://github.com/ats1999) 
@@ -39,9 +40,9 @@
 <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat&logo=webpack&logoColor=black" />
 ## Backend
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat"/>
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/ats1999)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/ats1999)
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/ats1999)
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white"/>
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat&logo=mongodb&logoColor=white"/>
 ## Tools
 
