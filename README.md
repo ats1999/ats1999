@@ -55,8 +55,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=algorithm)](https://github.com/ats1999/algorithm)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=bdevg)](https://github.com/ats1999/bdevg)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=j-Chat)](https://github.com/ats1999/j-Chat)
-
+<br>
 <a href="https://github.com/ats1999">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ats1999" />
 </a>
+<br>
 ⭐️ From [@Rahul](https://github.com/ats1999) 
