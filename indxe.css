@@ -1,0 +1,16 @@
+.programm__language{
+    display: flex;
+}
+.icon__image{
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+}
+.language{
+    transition: font-size 1s;
+    display: flex;
+    border: 1px solid black;
+}
+.language:hover{
+    font-size: 20px;
+}
