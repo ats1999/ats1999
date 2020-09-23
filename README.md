@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="indxe.css">
-</head>
-<body>
-    
+   
 <h1 style="display: inline;"> नमस्ते 🙏, I'm Rahul kumar. I love my <img src="images/india.gif" style="width: 50px; height: 50px; display: inline-block; border-radius: 50px;" alt=""> </h1>  
 
 
@@ -47,7 +38,3 @@
 
 
 ⭐️ From [@Rahul](https://github.com/ats1999)
-
-
-</body>
-</html>
