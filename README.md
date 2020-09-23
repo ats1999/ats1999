@@ -5,12 +5,14 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 - 🔭 I’m currently working on real time chatting application. <br>
-- 🌱 I’m currently learning Data structure, algorithm and MERN stack development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- 🌱 I’m currently learning Data structure, algorithm and MERN stack development. 
 - 👯 I’m looking to collaborate on ToastUi <br>
 - 🤔 I’m looking for help with system design. <br>
 - 💬 Ask me about Anythiing i that know.<br>
 - 😄 Pronouns: Rahul <br>
 - ⚡ Fun fact: I like to sleep.<br>
+
+
 
 [![](https://img.shields.io/badge/LinkedIn-Rahul-blue)](https://www.linkedin.com/in/rahul-kumar-36b05a189/)
 [![](https://img.shields.io/badge/Gmail-dev.rahul.er%40gmail.com-red)](mailto:dev.rahul.er@gmail.com)
