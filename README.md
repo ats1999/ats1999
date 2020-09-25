@@ -1,7 +1,5 @@
    
 <h1 style="display: inline;"> नमस्ते 🙏, I'm Rahul kumar.
-<img src="https://github.com/Ats1999/ats1999/blob/master/images/india.gif" alt="india image" style="border-radius:50px;"> </h1> 
-
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 - 🔭 I’m currently working on real time chatting application. <br>
