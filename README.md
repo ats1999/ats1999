@@ -30,7 +30,7 @@
 I like java  more than anyother programming languages. It's structured feature attract me towards java. It enforcers us to think in classical way. It starts teaching OPPS from the *Hello world*. 
 #### c/C++ - My introductory programming language 
 *C* is my first programming language, follow up by *C++*. I like it's speed, the  way  this intract with the system. 
-#### JavaScript - I work on javascript planet 🌏 
+<h4 style="color:red;">JavaScript - I work on javascript planet</h4>🌏 
 This is the first programming language i ever worked with. I use it in *NodeJS* environment on the sevrer side and  with *ReactJS* on the client side. JavaScript is not a programming language only, it's a complete package. By learning javascript you can feel your self as bomb 💣. 
 
 ## Front-end
