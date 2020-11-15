@@ -2,7 +2,7 @@
 <h1 style="display: inline;"> नमस्ते 🙏, I'm Rahul kumar.</h1>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
-- 🔭 I’m currently working on real time chatting application. <br>
+- 🔭 I’m currently working on react-draggable-resizable model. <br>
 - 🌱 I’m currently learning Data structure, algorithm and MERN stack development. 
 - 👯 I’m looking to collaborate on ToastUi <br>
 - 🤔 I’m looking for help with system design. <br>
