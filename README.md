@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on react-draggable-resizable model. <br>
 - 🌱 I’m currently learning Data structure, algorithm and MERN stack development. 
 - 👯 I’m looking to collaborate on ToastUi <br>
-- 🤔 I’m looking for help with system design. <br>
+- 🤔 I’m looking for help with Algorithms. <br>
 - 💬 Ask me about Anythiing i that know.<br>
 - 😄 Pronouns: Rahul <br>
 - ⚡ Fun fact: I like to sleep.<br>
