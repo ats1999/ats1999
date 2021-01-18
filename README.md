@@ -52,11 +52,10 @@ I have worked on NodeJs and ReactJs.
 
 
 #### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=ats1999&show_icons=true&hide_border=true)
+![My Github Status](https://github-readme-stats.vercel.app/api?username=ats1999&show_icons=true&hide_border=true&count_private=true)
 
 #### 👀 Active Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=algorithm)](https://github.com/ats1999/algorithm)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=bdevg)](https://github.com/ats1999/bdevg)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=j-Chat)](https://github.com/ats1999/j-Chat)
 <br>
 <a href="https://github.com/ats1999">
