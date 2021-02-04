@@ -2,10 +2,10 @@
 <h1 style="display: inline;"> नमस्ते 🙏, I'm Rahul kumar.</h1>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
-- 🔭 I’m currently working on real time chatting application. <br>
+- 🔭 I’m currently working on react-draggable-resizable model. <br>
 - 🌱 I’m currently learning Data structure, algorithm and MERN stack development. 
 - 👯 I’m looking to collaborate on ToastUi <br>
-- 🤔 I’m looking for help with system design. <br>
+- 🤔 I’m looking for help with Algorithms. <br>
 - 💬 Ask me about Anythiing i that know.<br>
 - 😄 Pronouns: Rahul <br>
 - ⚡ Fun fact: I like to sleep.<br>
@@ -31,7 +31,7 @@ I like java  more than anyother programming languages. It's structured feature a
 #### c/C++ - My introductory programming language 
 *C* is my first programming language, follow up by *C++*. I like it's speed, the  way  this intract with the system. 
 <h4 style="color:red;">JavaScript - I work on javascript planet 🌏</h4>
- This is the first programming language i ever worked with. I use it in *NodeJS* environment on the sevrer side and  with *ReactJS* on the client side. JavaScript is not a programming language only, it's a complete package. By learning javascript you can feel your self as bomb 💣. 
+ This is the first programming language i ever worked with. I use it in **NodeJS** environment on the sevrer side and  with *ReactJS* on the client side. JavaScript is not a programming language only, it's a complete package. By learning javascript you can feel your self as bomb 💣. 
 
 ## Front-end
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/><img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
@@ -52,11 +52,10 @@ I have worked on NodeJs and ReactJs.
 
 
 #### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=ats1999&show_icons=true&hide_border=true)
+![My Github Status](https://github-readme-stats.vercel.app/api?username=ats1999&show_icons=true&hide_border=true&count_private=true)
 
 #### 👀 Active Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=algorithm)](https://github.com/ats1999/algorithm)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=bdevg)](https://github.com/ats1999/bdevg)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=j-Chat)](https://github.com/ats1999/j-Chat)
 <br>
 <a href="https://github.com/ats1999">
