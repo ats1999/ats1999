@@ -1,3 +1,0 @@
-Create an authorization service which will will authorize 
-
-Through different kind of service like Google, Facebook, github etc...
