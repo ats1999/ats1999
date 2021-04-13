@@ -21,6 +21,20 @@ explore new technologies and enhances my experience</pre> <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+## Experience
+28 september 2020 to present
+MERN Stack developer
+<pre>
+● Created scalable backend servers using Nodejs and ExpressJs and used MongoDB and
+AWS DynamoDB as databases.
+● Used AWS Cognito and JWT for authentication and AWS S3 for storage.
+● Worked on dashboards and created reusable React components.
+● Used socket.io for real-time communication.
+● Used Mapbox-gl-js, deck.gl to create Map components on client and turf js for real time
+geospatial analysis.
+● Optimized servers and reduced HTTP requests by identifying the data which can be stored on
+the client.
+</pre>
 ## Programming Language and skills
 <!--Programming languages shilds--> 
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/ats1999)
