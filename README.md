@@ -59,7 +59,7 @@ the client.
 <img src="https://img.shields.io/badge/Socket_IO%20-%238009AD.svg?&style=for-the-badge&logo=NextJs&logoColor=white"/>
 
 ## Database
-<img src="https://img.shields.io/badge/MySql-%23000000.svg?&style=flat&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/NoSql-%29900000.svg?&style=flat&logo=nosql&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-%23009900.svg?&style=flat&logo=mongodb&logoColor=white"/><img src="https://img.shields.io/badge/AWS_DynamoDB-%23789900.svg?&style=flat&logo=dynamodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySql-%23000000.svg?&style=flat&logo=mysql&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/NoSql-%29900000.svg?&style=flat&logo=nosql&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MongoDB-%23009900.svg?&style=flat&logo=mongodb&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/AWS_DynamoDB-%23789900.svg?&style=flat&logo=dynamodb&logoColor=white"/>&nbsp;
 
 ## AWS - Technologies
 <img src="https://img.shields.io/badge/AWS-%23440000.svg?&style=flat&logo=aws&logoColor=white"/><img src="https://img.shields.io/badge/AWS_S3-%29120000.svg?&style=flat&logo=s3&logoColor=white"/><img src="https://img.shields.io/badge/AWS_Cognito-%23709900.svg?&style=flat&logo=cognito&logoColor=white"/><img src="https://img.shields.io/badge/AWS_DynamoDB-%23789900.svg?&style=flat&logo=dynamodb&logoColor=white"/>
