@@ -42,6 +42,9 @@ explore new technologies and enhances my experience</pre> <br>
 
 ## Database
 <img src="https://img.shields.io/badge/MySql-%23000000.svg?&style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/NoSql-%29900000.svg?&style=flat&logo=nosql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-%23009900.svg?&style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_DynamoDB-%23789900.svg?&style=flat&logo=dynamodb&logoColor=white"/>
 
 ## Tools
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/ats1999) 
