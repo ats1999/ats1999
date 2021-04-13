@@ -2,9 +2,9 @@
 <h1 style="display: inline;"> नमस्ते 🙏, I'm Rahul kumar.</h1>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
-<code>I am a 4th year computer science & engineering student with good problem solving skills and
+<pre>I am a 4th year computer science & engineering student with good problem solving skills and
 MERN stack development experience. I am looking for an opportunity which allows me to
-explore new technologies and enhances my experience</code> <br>
+explore new technologies and enhances my experience</pre> <br>
 - 🔭 I’m currently working as a MERN stack developer. <br>
 - 🌱 I’m currently learning Data structure, algorithm and MERN stack development. 
 - 👯 I’m looking to collaborate on Open source development <br>
@@ -30,7 +30,6 @@ explore new technologies and enhances my experience</code> <br>
 <img src="https://img.shields.io/badge/-JSP-de6c1e?style=flat" > 
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> 
 <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> 
-<img src="https://img.shields.io/badge/-Problem%20Management-4d788f?style=flat"> 
 
 ## Front-end
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/><img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
