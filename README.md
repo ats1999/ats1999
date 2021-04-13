@@ -4,7 +4,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"> <br>
 ```diff
 - I am a computer science engineer with good problem solving skills and MERN stack development experience. 
-- I used to develop things which i can and fix the bugs which are required
+@@ I used to develop things which i can and fix the bugs which are required
 ```
 - 🔭 I’m currently working as a MERN stack developer. <br>
 - 🌱 I’m currently learning Data structure, algorithm and MERN stack development. 
