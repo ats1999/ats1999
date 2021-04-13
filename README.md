@@ -24,7 +24,10 @@ explore new technologies and enhances my experience</pre> <br>
 ## Experience
 28 september 2020 to present
 
+Company - [vyorius](https://vyorius.com/)
+
 **MERN Stack developer**
+
 <pre>
 ● Created scalable backend servers using Nodejs and ExpressJs and used MongoDB and
 AWS DynamoDB as databases.
@@ -58,6 +61,8 @@ the client.
 ## Database
 <img src="https://img.shields.io/badge/MySql-%23000000.svg?&style=flat&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/NoSql-%29900000.svg?&style=flat&logo=nosql&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-%23009900.svg?&style=flat&logo=mongodb&logoColor=white"/><img src="https://img.shields.io/badge/AWS_DynamoDB-%23789900.svg?&style=flat&logo=dynamodb&logoColor=white"/>
 
+## AWS - Technologies
+<img src="https://img.shields.io/badge/AWS-%23440000.svg?&style=flat&logo=aws&logoColor=white"/><img src="https://img.shields.io/badge/AWS_S3-%29120000.svg?&style=flat&logo=s3&logoColor=white"/><img src="https://img.shields.io/badge/AWS_Cognito-%23709900.svg?&style=flat&logo=cognito&logoColor=white"/><img src="https://img.shields.io/badge/AWS_DynamoDB-%23789900.svg?&style=flat&logo=dynamodb&logoColor=white"/>
 ## Tools
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/ats1999) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/ats1999)
