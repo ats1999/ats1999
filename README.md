@@ -2,10 +2,12 @@
 <h1 style="display: inline;"> नमस्ते 🙏, I'm Rahul kumar.</h1>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"> <br>
-```diff
-- I am a computer science engineer with good problem solving skills and MERN stack development experience. 
-@@ I used to develop things which i can and fix the bugs which are required
-```
+
+<div>
+I am a computer science engineer with good problem solving skills and MERN stack development experience. 
+I used to develop things which i can and fix the bugs which are required
+</div>
+<p style='color:red'>This is some red text.</p>
 - 🔭 I’m currently working as a MERN stack developer. <br>
 - 🌱 I’m currently learning Data structure, algorithm and MERN stack development. 
 - 👯 I’m looking to collaborate on Open source development <br>
