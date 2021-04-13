@@ -2,9 +2,10 @@
 <h1 style="display: inline;"> नमस्ते 🙏, I'm Rahul kumar.</h1>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
-<pre>I am a 4th year computer science & engineering student with good problem solving skills and
-MERN stack development experience. I am looking for an opportunity which allows me to
-explore new technologies and enhances my experience</pre> <br>
+<pre>
+I am a computer science engineer with good problem solving skills and
+MERN stack development experience. I used to develop things which i can and fix the bugs which are required
+</pre> <br>
 - 🔭 I’m currently working as a MERN stack developer. <br>
 - 🌱 I’m currently learning Data structure, algorithm and MERN stack development. 
 - 👯 I’m looking to collaborate on Open source development <br>
@@ -22,8 +23,6 @@ explore new technologies and enhances my experience</pre> <br>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ## Experience
-28 september 2020 to present
-
 Company - [vyorius](https://vyorius.com/)
 
 **MERN Stack developer**
