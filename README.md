@@ -39,6 +39,8 @@ geospatial analysis.
 ● Optimized servers and reduced HTTP requests by identifying the data which can be stored on
 the client.
 </pre>
+
+
 ## Programming Language and skills
 <!--Programming languages shilds--> 
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/ats1999)
@@ -62,7 +64,7 @@ the client.
 <img src="https://img.shields.io/badge/MySql-%23000000.svg?&style=flat&logo=mysql&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/NoSql-%29900000.svg?&style=flat&logo=nosql&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MongoDB-%23009900.svg?&style=flat&logo=mongodb&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/AWS_DynamoDB-%23789900.svg?&style=flat&logo=dynamodb&logoColor=white"/>&nbsp;
 
 ## AWS - Technologies
-<img src="https://img.shields.io/badge/AWS-%23440000.svg?&style=flat&logo=aws&logoColor=white"/><img src="https://img.shields.io/badge/AWS_S3-%29120000.svg?&style=flat&logo=s3&logoColor=white"/><img src="https://img.shields.io/badge/AWS_Cognito-%23709900.svg?&style=flat&logo=cognito&logoColor=white"/><img src="https://img.shields.io/badge/AWS_DynamoDB-%23789900.svg?&style=flat&logo=dynamodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-%23440000.svg?&style=flat&logo=aws&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/AWS_S3-%29120000.svg?&style=flat&logo=s3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/AWS_Cognito-%23709900.svg?&style=flat&logo=cognito&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/AWS_DynamoDB-%23789900.svg?&style=flat&logo=dynamodb&logoColor=white"/>&nbsp;
 ## Tools
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/ats1999) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/ats1999)
