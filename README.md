@@ -23,7 +23,8 @@ explore new technologies and enhances my experience</pre> <br>
 
 ## Experience
 28 september 2020 to present
-MERN Stack developer
+
+**MERN Stack developer**
 <pre>
 ● Created scalable backend servers using Nodejs and ExpressJs and used MongoDB and
 AWS DynamoDB as databases.
