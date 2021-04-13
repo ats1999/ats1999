@@ -29,15 +29,16 @@ Company - [vyorius](https://vyorius.com/)
 **MERN Stack developer**
 
 <pre>
+● I was doing Geospatial analysis using turfjs on NodeJs as well as browser
 ● Created scalable backend servers using Nodejs and ExpressJs and used MongoDB and
-AWS DynamoDB as databases.
-● Used AWS Cognito and JWT for authentication and AWS S3 for storage.
-● Worked on dashboards and created reusable React components.
-● Used socket.io for real-time communication.
+AWS DynamoDB as databases
+● Used AWS Cognito and JWT for authentication and AWS S3 for storage
+● Worked on dashboards and created reusable React components
+● Used socket.io for real-time communication
 ● Used Mapbox-gl-js, deck.gl to create Map components on client and turf js for real time
-geospatial analysis.
+geospatial analysis
 ● Optimized servers and reduced HTTP requests by identifying the data which can be stored on
-the client.
+the client
 </pre>
 
 
@@ -65,16 +66,14 @@ the client.
 
 ## AWS - Technologies
 <img src="https://img.shields.io/badge/AWS-%23440000.svg?&style=flat&logo=aws&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/AWS_S3-%29120000.svg?&style=flat&logo=s3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/AWS_Cognito-%23709900.svg?&style=flat&logo=cognito&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/AWS_DynamoDB-%23789900.svg?&style=flat&logo=dynamodb&logoColor=white"/>&nbsp;
+
+## Maps and Geospatial analysis
+TurfJs, Mapbox-gl-js, React-Map-GL, Deck.gl
 ## Tools
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/ats1999) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/ats1999)
 <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=flat&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=flat&logo=markdown&logoColor=white"/>
-
-# O_o
-<h4>NodeJs and ReactJS</h4>
-I have worked on NodeJs and ReactJs. 
-<br><a href="https://github.com/Ats1999/ats1999/blob/master/MERN.md">Checkout My MERN(NodeJS + ReactJS) projects.</a><br>
 
 
 #### 🏆 Github Status
