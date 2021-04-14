@@ -87,6 +87,8 @@ TurfJs, Mapbox-gl-js, React-Map-GL, Deck.gl
 ## Projects ✔
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=drone-air-mission-planning)](https://github.com/ats1999/drone-air-mission-planning)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=rahul-react-map-gl-cluster)](https://github.com/ats1999/rahul-react-map-gl-cluster)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=Parsing-weather-data)](https://github.com/ats1999/Parsing-weather-data)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=exercise-tracker)](https://github.com/ats1999/exercise-tracker)
 
 <!-- top languages card -->
 <br>
