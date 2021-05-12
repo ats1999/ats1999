@@ -24,7 +24,7 @@ I used to develop things which i can and fix the bugs which are required
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ## Experience
-Company - [vyorius](https://vyorius.com/)
+Company - [VYORIUS DRONES PVT. LTD](https://vyorius.com/)
 
 **MERN Stack developer**
 
