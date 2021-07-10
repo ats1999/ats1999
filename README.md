@@ -3,15 +3,14 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"> <br>
 
-> I am a computer science engineer with good problem solving skills and MERN stack development experience. 
-I used to develop things which i can and fix the bugs which are required
+> I am a software engineer with good problem solving skills and MERN stack development experience. I used to make websites and web server faster than ever. 
 
 
 - 🔭 I’m currently working as a MERN stack developer. <br>
-- 🌱 I’m currently learning Data structure, algorithm and MERN stack development. 
+- 🌱 I’m currently learning Data structure, algorithm and software development. 
 - 👯 I’m looking to collaborate on Open source development <br>
 - 🤔 I’m looking for help with Algorithms, Data structure and Maths. <br>
-- 💬 Ask me about Anythiing i that know.<br>
+- 💬 Ask me about DSA and development<br>
 - 😄 Pronouns: Rahul <br>
 - ⚡ Fun fact: I like to sleep.<br>
 
