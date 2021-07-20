@@ -81,7 +81,7 @@ TurfJs, Mapbox-gl-js, React-Map-GL, Deck.gl
 #### 👀 Active Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=algorithm)](https://github.com/ats1999/algorithm)
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=algorithm)](https://github.com/ats1999/dsabyte-blog)
 
 ## Projects ✔
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=drone-air-mission-planning)](https://github.com/ats1999/drone-air-mission-planning)
