@@ -76,16 +76,16 @@ TurfJs, Mapbox-gl-js, React-Map-GL, Deck.gl
 
 
 #### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=ats1999&show_icons=true&hide_border=true&count_private=true)
+![My Github Status](https://github-readme-stats.vercel.app/api?username=ats1999&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
 
 #### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=algorithm)](https://github.com/ats1999/algorithm)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=algorithm&theme=tokyonight)](https://github.com/ats1999/algorithm)
 
 ## Projects ✔
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=drone-air-mission-planning)](https://github.com/ats1999/drone-air-mission-planning)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=rahul-react-map-gl-cluster)](https://github.com/ats1999/rahul-react-map-gl-cluster)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=Parsing-weather-data)](https://github.com/ats1999/Parsing-weather-data)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=exercise-tracker)](https://github.com/ats1999/exercise-tracker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=drone-air-mission-planning&theme=tokyonight)](https://github.com/ats1999/drone-air-mission-planning)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=rahul-react-map-gl-cluster&theme=tokyonight)](https://github.com/ats1999/rahul-react-map-gl-cluster)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=Parsing-weather-data&theme=tokyonight)](https://github.com/ats1999/Parsing-weather-data)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=exercise-tracker&theme=tokyonight)](https://github.com/ats1999/exercise-tracker)
 
 <!-- top languages card -->
 <br>
