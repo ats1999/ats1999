@@ -90,7 +90,7 @@ TurfJs, Mapbox-gl-js, React-Map-GL, Deck.gl
 <!-- top languages card -->
 <br>
 <a href="https://github.com/ats1999">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ats1999" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ats1999&theme=tokyonight" />
 </a>
 <br>
 
