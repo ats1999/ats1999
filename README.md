@@ -5,14 +5,23 @@
 
 > I am a software engineer with good problem solving skills and MERN stack development experience. I used to make websites and web server faster than ever. 
 
+- 🔭 I’m currently working on [@dsabyte - A dedicated community for DSA](https://dsabyte.com)
 
-- 🔭 I’m currently working as a MERN stack developer. <br>
-- 🌱 I’m currently learning Data structure, algorithm and software development. 
-- 👯 I’m looking to collaborate on Open source development <br>
-- 🤔 I’m looking for help with Algorithms, Data structure and Maths. <br>
-- 💬 Ask me about DSA and development<br>
-- 😄 Pronouns: Rahul <br>
-- ⚡ Fun fact: I like to sleep.<br>
+- 🌱 I’m currently learning **DSA, Java, C++, JavaScript, Node,React,AWS**
+
+- 👯 I’m looking to collaborate on [drone-air-mission-planning](https://drone-air-mission-planning.vercel.app/view-plan)
+
+- 🤝 I’m looking for help with [@dsabyte - A dedicated community for DSA](https://dsabyte.com)
+
+- 👨‍💻 All of my projects are available at [https://ats1999.github.io/#projects](https://ats1999.github.io/#projects)
+
+- 📝 I regularly write articles on [https://www.dsabyte.com/615363ee22f5813e114d4c33/blogs](https://www.dsabyte.com/615363ee22f5813e114d4c33/blogs)
+
+- 💬 Ask me about **DSA & dev**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1sqQpS0S44PzW9tH-3tXI_S27I0sdun-PrYCWuDdoDKE/edit?usp=sharing](https://docs.google.com/document/d/1sqQpS0S44PzW9tH-3tXI_S27I0sdun-PrYCWuDdoDKE/edit?usp=sharing)
+
+- ⚡ Fun fact **I never used to study.**
 
 
 
