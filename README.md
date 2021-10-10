@@ -5,8 +5,6 @@
 
 > I am a software engineer with good problem solving skills and MERN stack development experience. I used to make websites and web server faster than ever. 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ats1999" alt="ats1999" /></a> </p>
-
 - 🔭 I’m currently working on [@dsabyte - A dedicated community for DSA](https://dsabyte.com)
 
 - 🌱 I’m currently learning **DSA, Java, C++, JavaScript, Node,React,AWS**
