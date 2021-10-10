@@ -30,17 +30,7 @@
 [![](https://img.shields.io/badge/LinkedIn-Rahul-blue)](https://www.linkedin.com/in/rahul-kumar-36b05a189/)
 [![](https://img.shields.io/badge/Gmail-dev.rahul.er%40gmail.com-red)](mailto:dev.rahul.er@gmail.com)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/ats1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/ats1999" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-kumar-36b05a189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-kumar-36b05a189/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14773830/rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14773830/rahul" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100057763628659" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100057763628659" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/ats99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ats99" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/ats..." target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/ats..." height="30" width="40" /></a>
-</p>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -85,6 +75,18 @@ the client
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ats1999&theme=dark" />
 </a>
 <br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/ats1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/ats1999" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-kumar-36b05a189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-kumar-36b05a189/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14773830/rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14773830/rahul" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100057763628659" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100057763628659" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/ats99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ats99" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/ats..." target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/ats..." height="30" width="40" /></a>
+</p>
 
 ### Connect me
 <div><a href="https://github.com/ats1999"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/rahul-kumar-36b05a189/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
