@@ -88,15 +88,11 @@ the client
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/ats..." target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/ats..." height="30" width="40" /></a>
 </p>
 
-### Connect me
 <div><a href="https://github.com/ats1999"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/rahul-kumar-36b05a189/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
 </div>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rahul.engineer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rahul.engineer" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ats1999&" alt="ats1999" /></p>
-
 
 ### ⭐️ From [@Rahul](https://github.com/ats1999)   
 
