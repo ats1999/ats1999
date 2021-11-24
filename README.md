@@ -67,7 +67,7 @@ the client
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=drone-air-mission-planning&theme=dark)](https://github.com/ats1999/drone-air-mission-planning)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=rahul-react-map-gl-cluster&theme=dark)](https://github.com/ats1999/rahul-react-map-gl-cluster)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=Parsing-weather-data&theme=dark)](https://github.com/ats1999/Parsing-weather-data)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=exercise-tracker&theme=dark)](https://github.com/ats1999/exercise-tracker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=time-stamp&theme=dark)](https://github.com/ats1999/time-stamp)
 
 <!-- top languages card -->
 <br>
