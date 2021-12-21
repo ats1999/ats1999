@@ -3,23 +3,15 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"> <br>
 
-> I am a software engineer with good problem solving skills and MERN stack development experience. I used to make websites and web server faster than ever. 
-
-- 🔭 I’m currently working on [@dsabyte - A dedicated community for DSA](https://dsabyte.com)
+> I am a software engineer with good problem solving skills and MERN stack development experience. Building sclable web servers.  
 
 - 🌱 I’m currently learning **DSA, Java, C++, JavaScript, Node,React,AWS**
 
 - 👯 I’m looking to collaborate on [drone-air-mission-planning](https://drone-air-mission-planning.vercel.app/view-plan)
 
-- 🤝 I’m looking for help with [@dsabyte - A dedicated community for DSA](https://dsabyte.com)
-
 - 👨‍💻 All of my projects are available at [Github](https://ats1999.github.io/#projects)
 
-- 📝 I regularly write articles on [@dsabyte](https://www.dsabyte.com/615363ee22f5813e114d4c33/blogs)
-
 - 💬 Ask me about **DSA & dev**
-
-- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1sqQpS0S44PzW9tH-3tXI_S27I0sdun-PrYCWuDdoDKE/edit?usp=sharing)
 
 - ⚡ Fun fact **I never used to study.**
 
