@@ -3,23 +3,23 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"> <br>
 
-> I am a software engineer with good problem solving skills and MERN stack development experience. Building sclable web servers.  
+> I am a software engineer who is building scalable, maintenable and reliable system with optimization at it's core..  
 
-- 🌱 I’m currently learning **DSA, Java, C++, JavaScript, Node,React,AWS**
+- 🌱 I’m currently learning **DSA, Java, C++, JavaScript, Node,React,Cloud**
 
-- 👯 I’m looking to collaborate on [drone-air-mission-planning](https://drone-air-mission-planning.vercel.app/view-plan)
+- 👯 I’m looking to collaborate on [@dsabyte](https://www.dsabyte.com)
 
 - 👨‍💻 All of my projects are available at [Github](https://ats1999.github.io/#projects)
 
-- 💬 Ask me about **DSA & dev**
+- 💬 Ask me about **DSA & Dev**
 
-- ⚡ Fun fact **I never used to study.**
+- ⚡ Fun fact **I hate reading...**
 
 
 
 <img src="https://komarev.com/ghpvc/?username=ats1999&label=Profile%20views&color=0e75b6&style=flat" alt="ats1999" />
 
-[![](https://img.shields.io/badge/LinkedIn-Rahul-blue)](https://www.linkedin.com/in/rahul-kumar-36b05a189/)
+[![](https://img.shields.io/badge/LinkedIn-Rahul-blue)](https://www.linkedin.com/in/rahul-kumar-%F0%9F%87%AE%F0%9F%87%B3-36b05a189/)
 [![](https://img.shields.io/badge/Gmail-dev.rahul.er%40gmail.com-red)](mailto:dev.rahul.er@gmail.com)
 
 
