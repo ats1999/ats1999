@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **System design, distributed system**
 
-- ⚡ Fun fact **I hate reading...**
+- ⚡ Fun fact **noop...**
 
 
 
