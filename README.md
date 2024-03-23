@@ -1,5 +1,5 @@
    
-<h1 style="display: inline;"> नमस्ते 🙏, I'm Rahul kumar</h1>
+<h1 style="display: inline;"> नमस्ते 🙏 <br/> I'm Rahul kumar</h1>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"> <br>
 
