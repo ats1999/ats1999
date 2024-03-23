@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://ats1999.github.io/#projects)
 
-- 💬 Ask me about **DSA & Dev**
+- 💬 Ask me about **System design, distributed system**
 
 - ⚡ Fun fact **I hate reading...**
 
