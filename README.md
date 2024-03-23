@@ -5,7 +5,7 @@
 
 ## I am a software engineer who is building scalable, maintenable and reliable system with optimization at it's core..  
 
-- 🌱 I’m currently learning **DSA, Java, C++, JavaScript, Node,React,Cloud**
+- 🌱 I’m currently learning **Networking protocol, database internals, distributed systems**
 
 - 👯 I’m looking to collaborate on [@dsabyte](https://www.dsabyte.com)
 
