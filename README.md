@@ -82,5 +82,3 @@ As a Full Stack Developer at Vyorius, I spearheaded the development of a real-ti
 <p><a href="https://www.buymeacoffee.com/rahul.engineer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rahul.engineer" /></a></p><br><br>
 
 ### ⭐️ From [@Rahul](https://github.com/ats1999)   
-
-> 716111510111411102
