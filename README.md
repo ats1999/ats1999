@@ -52,9 +52,9 @@ As a Full Stack Developer at Vyorius, I spearheaded the development of a real-ti
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=WatchMan&theme=dark)](https://github.com/ats1999/demo-projects)
 
 ## Projects ✔
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=drone-air-mission-planning&theme=dark)](https://github.com/ats1999/drone-air-mission-planning)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=rahul-react-map-gl-cluster&theme=dark)](https://github.com/ats1999/rahul-react-map-gl-cluster)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=URL-Shortner&theme=dark)](https://github.com/ats1999/URL-Shortner)
+- [dsabyte.com](https://dsabyte.com) - ultimate blogging solution
+- [ogp.dsabyte.com](https://ogp.dsabyte.com) - open graph image generator
+- [URL Shortner](https://github.com/ats1999/URL-Shortner?tab=readme-ov-file) - a distributed url shortener
 
 <!-- top languages card -->
 <br>
