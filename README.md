@@ -52,7 +52,6 @@ As a Full Stack Developer at Vyorius, I spearheaded the development of a real-ti
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=WatchMan&theme=dark)](https://github.com/ats1999/demo-projects)
 
 ## Projects ✔
-- [dakia](https://github.com/ats1999/dakia) - A Lightweight, Rust-Powered API Gateway with Ultimate Customization
 - [dsabyte.com](https://dsabyte.com) - Ultimate blogging solution
 - [ogp.dsabyte.com](https://ogp.dsabyte.com) - Open graph image generator
 - [URL Shortner](https://github.com/ats1999/URL-Shortner?tab=readme-ov-file) - A distributed url shortener
