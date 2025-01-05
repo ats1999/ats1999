@@ -4,7 +4,7 @@
 
 ## I am passionate about System Architecture, Networks, Databases, Languages and Advanced Algorithms...
 
-- 🌱 I’m currently learning **Networking protocol, database internals, distributed systems**
+- 🌱 I’m currently learning **Networking protocols, database internals and distributed systems**
 
 - 👯 I’m looking to collaborate on [Dakia | An API Gateway](https://github.com/ats1999/dakia)
 
