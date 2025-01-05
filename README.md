@@ -44,7 +44,7 @@ I began coding in 2019 when I became interested in making a website. I still rem
 
 ## Projects ✔
 
-- [Dakia](https://github.com/ats1999/dakia) - An API Gateway [Under Active Development]
+- [Dakia](https://github.com/ats1999/dakia) - An API Gateway 
 - [URL Shortner](https://github.com/ats1999/URL-Shortner?tab=readme-ov-file) - A distributed url shortener
 - [ogp.dsabyte.com](https://ogp.dsabyte.com) - Open graph image generator
 - [dsabyte.com](https://dsabyte.com) - Multi Author Blogging Website [Live but not actively maintained]
