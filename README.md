@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://ats1999.github.io/#projects)
 
-<img src="https://komarev.com/ghpvc/?username=ats1999&label=Profile%20views&color=0e75b6&style=flat" alt="ats1999" />
+<img src="https://komarev.com/ghpvc/?username=ats1999&label=Profile%20views&color=0e75b6&style=flat" alt="ats1999 rahul" />
 
 [![](https://img.shields.io/badge/LinkedIn-Rahul-blue)](https://www.linkedin.com/in/ats1999/)
 
@@ -36,11 +36,11 @@ I began coding in 2019 when I became interested in making a website. I still rem
 
 #### 🏆 Github Status
 
-![My Github Status](https://github-readme-stats.vercel.app/api?username=ats1999&show_icons=true&hide_border=true&count_private=true&theme=dark)
+![My Github Status](https://github-readme-stats.vercel.app/api?username=ats1999&show_icons=true&hide_border=true&count_private=true&theme=dark&x=y)
 
 #### 👀 Active Repo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=dakia&theme=dark&a=y)](https://github.com/ats1999/dakia)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=dakia&theme=dark&a=yb)](https://github.com/ats1999/dakia)
 
 ## Projects ✔
 
