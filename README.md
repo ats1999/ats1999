@@ -40,7 +40,7 @@ I began coding in 2019 when I became interested in making a website. I still rem
 
 #### 👀 Active Repo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=dakia&theme=dark&a=ybhh)](https://github.com/ats1999/dakia)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=dakia&theme=dark&a=ybhghh)](https://github.com/ats1999/dakia)
 
 ## Projects ✔
 
