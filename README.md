@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://ats1999.github.io/#projects)
 
-<img src="https://komarev.com/ghpvc/?username=ats1999&label=Profile%20views&color=0e75b6&style=flat" alt="ats1999 rahul" />
+<img src="https://komarev.com/ghpvc/?username=ats1999&label=Profile%20views&color=0e75b6&style=flat" alt="ats1999 rahulhh" />
 
 [![](https://img.shields.io/badge/LinkedIn-Rahul-blue)](https://www.linkedin.com/in/ats1999/)
 
