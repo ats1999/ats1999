@@ -17,8 +17,6 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 I enjoy turning complex problems into simple, scalable and maintainable solutions. Experienced in architecting, designing, and implementing scalable solutions that automate the buying, and optimization of digital advertising inventory in real-time. Proficient in Kafka, Java, Spring Boot, NodeJs, and a variety of distributed and real-time technologies.
 
-I began coding in 2019 when I became interested in making a website. I still remember when I ran my first for loop in the turbo c++ console. Since then, I've been programming as a hobby. Around 3 years ago, I ramped up my learning and have been waking up at 4AM to study.
-
 ## Experience
 - AdPushup - Software Engineer
 - Vyorius - Full Stack Intern
