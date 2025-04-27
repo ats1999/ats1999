@@ -1,21 +1,21 @@
-<h1 style="display: inline;"> नमस्ते 🙏 <br/> I'm a Software Engineer working at @AdPushup</h1>
+<h1 style="display: inline;"> नमस्ते 🙏 <br/> Simplicity scales; Complexity fails;</h1>
+Simple systems are easier to understand, manage, and maintain. Excessive complexity can lead to bottlenecks, difficulties in maintenance, and challenges in adapting to change, ultimately hindering scalability...
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"> <br>
-
-## I am passionate about System Architecture, Networks, Databases, Languages and Advanced Algorithms...
 
 - 🌱 I’m currently learning **networking protocols, database internals and distributed systems**
 
 - 👯 I’m looking to collaborate on [Dakia | An API Gateway](https://github.com/ats1999/dakia)
 
 - 👨‍💻 All of my projects are available at [Github](https://ats1999.github.io/#projects)
-
-<img src="https://komarev.com/ghpvc/?username=ats1999&label=Profile%20views&color=0e75b6&style=flat" alt="ats1999 rahulhh" />
-
-[![](https://img.shields.io/badge/LinkedIn-Rahul-blue)](https://www.linkedin.com/in/ats1999/)
+---
+- <img src="https://komarev.com/ghpvc/?username=ats1999&label=Profile%20views&color=0e75b6&style=flat" alt="ats1999 rahulhh" />
+- [![](https://img.shields.io/badge/LinkedIn-Rahul-blue)](https://www.linkedin.com/in/ats1999/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-I enjoy turning complex problems into simple, scalable and maintainable solutions. Experienced in architecting, designing, and implementing scalable solutions that automate the buying, and optimization of digital advertising inventory in real-time. Proficient in Kafka, Java, Spring Boot, NodeJs, and a variety of distributed and real-time technologies.
+I enjoy turning `complex` problems into `simple`, scalable and maintainable solutions. Experienced in designing and developing scalable AdTech solutions that automate the buying, and optimization of digital advertising inventory in real-time. Proficient in Kafka, Java, Spring Boot, NodeJs, and a variety of distributed and real-time technologies.
+
+I began coding in 2019, ran my first `for` loop in the turbo c++ terminal. Since then, coding has been my hobby.
 
 ## Experience
 - AdPushup - Software Engineer
