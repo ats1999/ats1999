@@ -34,10 +34,6 @@ I began coding in 2019, ran my first `for` loop in the turbo c++ terminal. Since
 | Message Brokers | Kafka, RabbitMQ, Azure Queue Storage                 |
 | Others          | Elastic Search, Jenkins, Docker, Prometheus, Grafana, etc |
 
-#### 🏆 Github Status
-
-![My Github Status](https://github-readme-stats.vercel.app/api?username=ats1999&show_icons=true&hide_border=true&count_private=true&theme=dark&x=ygg)
-
 #### 👀 Active Repo
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=dakia&theme=dark&a=ybklkhgyhh)](https://github.com/ats1999/dakia)
