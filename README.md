@@ -20,8 +20,20 @@ I enjoy turning `complex` problems into `simple`, scalable and maintainable solu
 I began coding in 2019, ran my first `for` loop in the turbo c++ terminal. Since then, coding has been my hobby.
 
 ## Experience
-- AdPushup - Software Engineer
-- Vyorius - Full Stack Intern
+#### Senior Software Engineer — Rocketlane
+- Building Rocketlane — a B2B Professional Services Automation (PSA) platform
+- Tech: Java, Spring Boot, PostgreSQL, AWS
+- Duration: Dec 2025 – Present
+
+#### Software Engineer — AdPushup
+- At AdPushup, I designed and developed cutting-edge AdTech solutions, optimize programmatic advertising systems, conducted POCs, and integrate with third-party Ad exchanges to deliver high-performance, low-latency solutions.
+- Tech: Java, Spring Boot, Node.js, PostgreSQL, Kafka, Microservices
+- Duration: Jan 2022 – Dec 2025 · 4 years
+
+#### Full Stack Engineer — Vyorius (Internship)
+- As a Full Stack Developer at Vyorius, I designed and developed a real-time drone delivery system, creating dashboards for maintenance, delivery, and route planning while implementing WebSockets and RabbitMQ for real-time data streaming and distributed load balancing.
+- Tech: React, Node.js, MongoDB, WebSockets
+- Duration: Sep 2020 – Nov 2021 · 1 year 3 months
 
 <h3 align="left">Languages and Tools:</h3>
 
