@@ -41,9 +41,9 @@ I began coding in 2019, ran my first `for` loop in the turbo c++ terminal. Since
 | --------------- | ---------------------------------------------------- |
 | Languages       | Java, JavaScript, Rust                    |
 | Frameworks      | Spring Boot, ExpressJs, Tokio                               |
-| Databases       | MySql, Couchbase, MongoDB                            |
+| Databases       | PostgreSQL, Couchbase, MongoDB                            |
 | ORM             | Hibernate, Spring Data JPA                           |
-| Message Brokers | Kafka, RabbitMQ, Azure Queue Storage                 |
+| Message Brokers | Kafka, RabbitMQ, Azure Queue Storage, AWS SQS, AWS Kinesis                |
 | Others          | Elastic Search, Jenkins, Docker, Prometheus, Grafana, etc |
 
 #### 👀 Active Repo
