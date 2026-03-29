@@ -71,6 +71,6 @@ I began coding in 2019, ran my first `for` loop in the turbo c++ terminal. Since
 </div>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/rahul.engineer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rahul.engineer" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/ats1999"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rahul.engineer" /></a></p><br><br>
 
 ### ⭐️ From [@Rahul](https://github.com/ats1999)
