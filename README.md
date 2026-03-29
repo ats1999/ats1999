@@ -1,8 +1,5 @@
 <h1 style="display: inline;"> 🙏 <br/> <i>नमस्ते I'm Rahul</i></h1>
 
-### Simplicity scales; Complexity fails;
-Simple systems are easier to understand, manage, and maintain. Excessive complexity can lead to bottlenecks, difficulties in maintenance, and challenges in adapting to change, ultimately hindering scalability...
-
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"> <br>
 
 - 🌱 I’m currently learning **networking protocols, database internals and distributed systems**
