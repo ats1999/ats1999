@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **networking protocols, database internals and distributed systems**
 
-- 👯 I’m looking to collaborate on [Dakia | An API Gateway](https://github.com/ats1999/dakia)
+- 👯 I’m looking to collaborate on [API Gateway](https://github.com/ats1999/dakia)
 
 - 👨‍💻 All of my projects are available at [Github](https://ats1999.github.io/#projects)
 ---
