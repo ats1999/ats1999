@@ -45,7 +45,7 @@ I began coding in 2019, ran my first `for` loop in the turbo c++ terminal. Since
 
 #### 👀 Active Repo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=dakia&theme=dark&a=ybklkhgyhh)](https://github.com/ats1999/dakia)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ats1999&repo=api-gateway&theme=dark&a=ybklkhgyhh)](https://github.com/ats1999/dakia)
 
 ## Projects ✔
 
