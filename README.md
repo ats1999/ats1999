@@ -49,10 +49,8 @@ I began coding in 2019, ran my first `for` loop in the turbo c++ terminal. Since
 
 ## Projects ✔
 
-- [Dakia](https://github.com/ats1999/dakia) - An API Gateway 
+- [Api Gateway](https://github.com/ats1999/dakia) - An API Gateway 
 - [PGUID](https://github.com/ats1999/pguid?tab=readme-ov-file) - UUID for PostgreSQL
-- [ogp.dsabyte.com](https://ogp.dsabyte.com) - Open graph image generator
-- [dsabyte.com](https://dsabyte.com) - Multi Author Blogging Website [Live but not actively maintained]
 
 <!-- top languages card -->
 <br>
